@@ -1,4 +1,4 @@
-# Py Shell
+# PyShell
 
 A minimal shell environment written in Python. This script provides basic shell functionalities, including built-in commands and the ability to execute external programs.
 
